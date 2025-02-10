@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amirreza Salimzade
-- 👀 I’m currently studying CS in unviersity of isfahan
+- 👀 I’m currently studying CS in university of isfahan
 - 🌱 I’m currently learning c , linux and flask
 - 📫 my email:amir314.salim@gmail.com
 -  Pronouns: he/him i guess :satisfied:
